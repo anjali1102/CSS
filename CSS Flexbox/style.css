@@ -1,7 +1,7 @@
 .flex-container{
     border: 2px solid black;
     display: flex; /*initialise the flex properties*/
-    height: 45vh;
+    /* height: 45vh; */
     background-color: red;
 
     /* flex-direction: column; */
@@ -20,7 +20,8 @@
     align-items: flex-end; */
 
 
-    flex-wrap: wrap;
+    /* flex-wrap: wrap; */
+    flex-wrap: wrap-reverse;
 
 }
 
