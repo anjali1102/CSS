@@ -39,5 +39,7 @@
 .item1{
     /* order:3; */
     /* flex-grow: 2; */
-    flex-shrink: 2;
+    /* flex-shrink: 2; */
+
+    align-self: center;
 }
