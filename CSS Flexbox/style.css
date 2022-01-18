@@ -4,7 +4,8 @@
     height: 45vh;
     background-color: red;
 
-    flex-direction: column;
+    /* flex-direction: column; */
+    flex-direction: row-reverse;
 }
 
 .fitem{
