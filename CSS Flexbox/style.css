@@ -1,8 +1,10 @@
 .flex-container{
     border: 2px solid black;
-    display: flex;
+    display: flex; /*initialise the flex properties*/
     height: 45vh;
     background-color: red;
+
+    flex-direction: column;
 }
 
 .fitem{
