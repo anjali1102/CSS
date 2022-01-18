@@ -5,7 +5,8 @@
     background-color: red;
 
     /* flex-direction: column; */
-    flex-direction: row-reverse;
+    /* flex-direction: row-reverse; */
+    justify-content: center;
 }
 
 .fitem{
